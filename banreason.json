@@ -1,1 +1,18 @@
-
+{
+  "tr": [
+    "Hile Tespit Edildi",
+    "Enjeksiyon/Exploit",
+    "Ban Atlama",
+    "Ağ Trafiği Manipülasyonu",
+    "Debug Hook Müdahalesi",
+    "Hileli Evemt Tetiklemesi"
+  ],
+  "en": [
+    "Cheat Detected",
+    "Injection/Exploit",
+    "Ban Evasion",
+    "Network Traffic Manipulation",
+    "Debug Hook Tampering",
+    "Cheat Event Trigger"
+  ]
+}
